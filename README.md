@@ -1,6 +1,6 @@
 # CSV Combiner
 
-Deafted a command line program that takes several CSV files as arguments. Each CSV
+Drafted a command line program that takes several CSV files as arguments. Each CSV
 file (found in the `fixtures` directory of this repo) will have the same
 columns. Script outputs a new CSV file to `stdout` that contains the
 rows from each of the inputs along with an additional column that has the
